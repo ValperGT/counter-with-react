@@ -23,7 +23,7 @@ body{
   background-color: var(--bg-counter);
   box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.2);
   border-radius: 7px;
-  width: clamp(14rem, 50vw, 40rem);
+  width: clamp(14rem, 90vw, 40rem);
   grid-template-areas: "title title title" "number number number" "increase reset decrease";
   padding: 1rem;
 }
